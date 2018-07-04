@@ -6,7 +6,7 @@ Leveraging the Blockchain, Cryptocurrency and AI Technologies
 
 # How to do Airdrop:
 
-As the name suggests, Airdrop means to send tokens to a group of accounts for free. It is like Christmas gifts. But the Airdrops on EOS are not free for the sender company. it requires RAM, CPU and NET resources to make it free for the receivers but the sender Company pays for these resources, though they can get back their investment of CPU and NET right after Airdrop but the RAM is a complex part.
+As the name suggests, Airdrop means to send tokens to a group of eligible accounts, as in ATD airdrop all the EOS holder Registered accounts which were captured on Genisis Snapshot 2nd June, 2018. It is like Christmas gifts. But the Airdrops on EOS are not free for the sender company. it requires RAM, CPU and NET resources to make it free for the receivers but the sender Company pays for these resources, though they can get back their investment of CPU and NET right after Airdrop but the RAM is a complex part.
 
 The Company purchases enough RAM (~32MB)  to do Airdrop and this RAM returns to them when the receivers make use of their tokens.
 
